@@ -7,7 +7,7 @@ test repository for workshop
 - Commit the changes
 - Push the changes to the remote repository
 
-## Prerequisites
+## Things you need
 - Git
 - GitHub account
 - Text editor
