@@ -6,3 +6,8 @@ test repository for workshop
 - Udating the README.md file
 - Commit the changes
 - Push the changes to the remote repository
+
+## Prerequisites
+- Git
+- GitHub account
+- Text editor
