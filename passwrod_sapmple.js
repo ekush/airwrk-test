@@ -1,1 +1,1 @@
-const password = 
+const password = "";
